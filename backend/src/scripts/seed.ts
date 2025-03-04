@@ -1,6 +1,6 @@
 import mongoose from "mongoose";
 import dotenv from "dotenv";
-import { Question } from "../src/models/Questions";
+import { Question } from "../models/Questions";
 import questionsData from "../data/questions.json";
 
 dotenv.config();
