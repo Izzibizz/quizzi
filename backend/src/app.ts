@@ -18,4 +18,4 @@ app.get("/", (req, res) => {
   res.send("Welcome to the API! Documentation:");
 });
 
-export default app;
+export default app; 
