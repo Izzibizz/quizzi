@@ -4500,9 +4500,9 @@
   {
     "id": 345,
     "category": "Gothenburg",
-    "question": "What is the name of the archipelago located near Gothenburg?",
-    "option_1": "Stockholm Archipelago",
-    "option_2": "Blekinge Archipelago",
+    "question": "What is the name of the water located near Gothenburg?",
+    "option_1": "Skagerak",
+    "option_2": "Bohus Archipelago",
     "answer": "Gothenburg Archipelago",
     "difficulty": "Easy",
     "clue_1": "It consists of several islands and islets.",
